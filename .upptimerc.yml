@@ -8,16 +8,10 @@ sites:
     url: https://api.moltrust.ch/guard/api/info
   - name: Agent Score (Free)
     url: https://api.moltrust.ch/guard/api/agent/score-free/0x0000000000000000000000000000000000000001
-  - name: Skill Audit
-    url: https://api.moltrust.ch/guard/skill/audit
-    method: POST
-    expectedStatusCodes:
-      - 422
-  - name: Shopping Verify
-    url: https://api.moltrust.ch/guard/shopping/verify
-    method: POST
-    expectedStatusCodes:
-      - 422
+  - name: Skill Info
+    url: https://api.moltrust.ch/guard/skill/info
+  - name: Shopping Info
+    url: https://api.moltrust.ch/guard/shopping/info
   - name: MolTrust Homepage
     url: https://moltrust.ch
 
