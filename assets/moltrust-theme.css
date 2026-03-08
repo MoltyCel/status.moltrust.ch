@@ -1,0 +1,59 @@
+/* MolTrust Status Page — Custom Theme matching moltrust.ch */
+
+/* Light theme (default) */
+:root {
+  --body-background-color: #F8FAFC;
+  --body-text-color: #0F172A;
+  --card-background-color: #FFFFFF;
+  --nav-background-color: rgba(255,255,255,0.92);
+  --nav-border-bottom-color: #E2E8F0;
+  --nav-current-border-bottom-color: #E85D26;
+  --card-border-color: #E2E8F0;
+  --down-border-left-color: #E85D26;
+  --down-background-color: #FEF0EA;
+  --degraded-border-left-color: #F59E0B;
+  --up-border-left-color: #22C55E;
+  --tag-color: #FFFFFF;
+  --tag-up-background-color: #22C55E;
+  --tag-down-background-color: #E85D26;
+  --tag-degraded-background-color: #F59E0B;
+  --change-background-color: #F59E0B;
+  --error-button-border-color: #D14E1B;
+  --error-button-background-color: #E85D26;
+  --error-button-color: #FFFFFF;
+  --submit-button-border-color: #D14E1B;
+  --submit-button-background-color: #E85D26;
+  --submit-button-color: #FFFFFF;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --body-background-color: #0F172A;
+    --body-text-color: #E2E8F0;
+    --card-background-color: #1E293B;
+    --nav-background-color: rgba(15,23,42,0.92);
+    --nav-border-bottom-color: #334155;
+    --nav-current-border-bottom-color: #E85D26;
+    --card-border-color: #334155;
+    --down-border-left-color: #E85D26;
+    --down-background-color: rgba(232,93,38,0.15);
+    --degraded-border-left-color: #F59E0B;
+    --up-border-left-color: #22C55E;
+    --tag-color: #FFFFFF;
+    --tag-up-background-color: #22C55E;
+    --tag-down-background-color: #E85D26;
+    --tag-degraded-background-color: #F59E0B;
+    --change-background-color: #F59E0B;
+    --error-button-border-color: #D14E1B;
+    --error-button-background-color: #E85D26;
+    --error-button-color: #FFFFFF;
+    --submit-button-border-color: #D14E1B;
+    --submit-button-background-color: #E85D26;
+    --submit-button-color: #FFFFFF;
+    --graph-opacity: 0.92;
+    --graph-filter: none;
+  }
+}
