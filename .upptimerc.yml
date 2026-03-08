@@ -17,7 +17,7 @@ sites:
 
 status-website:
   cname: status.moltrust.ch
-  logoUrl: https://moltrust.ch/apple-touch-icon.png
+  logoUrl: https://raw.githubusercontent.com/MoltyCel/status.moltrust.ch/master/assets/logo.png
   name: MolTrust Status
   introTitle: "**MolTrust** — System Status"
   introMessage: Real-time uptime and latency data for MolTrust infrastructure. Monitored every 5 minutes via [Upptime](https://upptime.js.org).
