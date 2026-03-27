@@ -4,10 +4,10 @@
     "url": "https://api.moltrust.ch/guard/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "molt-guard-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
@@ -15,16 +15,18 @@
     "timeWeek": 649,
     "timeMonth": 663,
     "timeYear": 663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-27": 1
+    }
   },
   {
     "name": "MoltGuard API Info",
     "url": "https://api.moltrust.ch/guard/api/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "molt-guard-api-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 132,
     "timeMonth": 129,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-27": 0
+    }
   },
   {
     "name": "Agent Score (Free)",
