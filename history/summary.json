@@ -4,18 +4,19 @@
     "url": "https://api.moltrust.ch/guard/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "molt-guard-health",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "98.94%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 646,
     "timeDay": 678,
     "timeWeek": 588,
     "timeMonth": 646,
     "timeYear": 646,
     "dailyMinutesDown": {
+      "2026-03-30": 2,
       "2026-03-27": 104
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://api.moltrust.ch/guard/api/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "molt-guard-api-info",
-    "status": "up",
-    "uptime": "99.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.66%",
-    "uptimeYear": "99.66%",
+    "status": "down",
+    "uptime": "99.67%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "98.95%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 128,
     "timeDay": 156,
     "timeWeek": 132,
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2026-03-30": 2,
       "2026-03-27": 104
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://api.moltrust.ch/guard/api/agent/score-free/0x0000000000000000000000000000000000000001",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "agent-score-free",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1400,
@@ -55,17 +57,19 @@
     "timeWeek": 1559,
     "timeMonth": 1400,
     "timeYear": 1400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-30": 1
+    }
   },
   {
     "name": "Skill Info",
     "url": "https://api.moltrust.ch/guard/skill/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "skill-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
@@ -73,16 +77,18 @@
     "timeWeek": 132,
     "timeMonth": 126,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-30": 1
+    }
   },
   {
     "name": "Shopping Info",
     "url": "https://api.moltrust.ch/guard/shopping/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "shopping-info",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +97,9 @@
     "timeWeek": 132,
     "timeMonth": 127,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-30": 0
+    }
   },
   {
     "name": "MolTrust Homepage",
