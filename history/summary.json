@@ -46,18 +46,19 @@
     "url": "https://api.moltrust.ch/guard/api/agent/score-free/0x0000000000000000000000000000000000000001",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "agent-score-free",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "96.56%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "96.44%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 1400,
     "timeDay": 1410,
     "timeWeek": 1550,
     "timeMonth": 1400,
     "timeYear": 1400,
     "dailyMinutesDown": {
+      "2026-03-31": 2,
       "2026-03-30": 50
     }
   },
@@ -66,18 +67,19 @@
     "url": "https://api.moltrust.ch/guard/skill/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "skill-info",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 131,
     "timeDay": 192,
     "timeWeek": 143,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2026-03-31": 1,
       "2026-03-30": 49
     }
   },
@@ -86,10 +88,10 @@
     "url": "https://api.moltrust.ch/guard/shopping/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "shopping-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 130,
@@ -98,6 +100,7 @@
     "timeMonth": 130,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2026-03-31": 1,
       "2026-03-30": 49
     }
   },
@@ -106,9 +109,9 @@
     "url": "https://moltrust.ch",
     "icon": "https://icons.duckduckgo.com/ip3/moltrust.ch.ico",
     "slug": "mol-trust-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,6 +120,8 @@
     "timeWeek": 805,
     "timeMonth": 883,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-31": 0
+    }
   }
 ]
