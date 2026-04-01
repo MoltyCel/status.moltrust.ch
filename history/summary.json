@@ -48,10 +48,10 @@
     "url": "https://api.moltrust.ch/guard/api/agent/score-free/0x0000000000000000000000000000000000000001",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "agent-score-free",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "87.01%",
-    "uptimeWeek": "97.65%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "97.64%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "99.29%",
     "time": 1405,
@@ -60,6 +60,7 @@
     "timeMonth": 1405,
     "timeYear": 1405,
     "dailyMinutesDown": {
+      "2026-04-01": 1,
       "2026-03-31": 187,
       "2026-03-30": 50
     }
@@ -69,10 +70,10 @@
     "url": "https://api.moltrust.ch/guard/skill/info",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "skill-info",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "87.86%",
-    "uptimeWeek": "97.78%",
+    "uptimeDay": "87.79%",
+    "uptimeWeek": "97.77%",
     "uptimeMonth": "99.33%",
     "uptimeYear": "99.33%",
     "time": 138,
@@ -81,6 +82,7 @@
     "timeMonth": 138,
     "timeYear": 138,
     "dailyMinutesDown": {
+      "2026-04-01": 1,
       "2026-03-31": 175,
       "2026-03-30": 49
     }
@@ -91,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "shopping-info",
     "status": "up",
-    "uptime": "99.33%",
+    "uptime": "99.34%",
     "uptimeDay": "87.96%",
     "uptimeWeek": "97.80%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 137,
     "timeDay": 203,
     "timeWeek": 161,
