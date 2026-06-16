@@ -1,7 +1,7 @@
 url: https://api.moltrust.ch/guard/api/agent/score-free/0x0000000000000000000000000000000000000001
-status: up
-code: 200
-responseTime: 20199
-lastUpdated: 2026-06-16T00:27:49.412Z
+status: down
+code: 429
+responseTime: 395
+lastUpdated: 2026-06-16T05:40:00.695Z
 startTime: 2026-03-08T18:39:26.045Z
 generator: Upptime <https://github.com/upptime/upptime>
