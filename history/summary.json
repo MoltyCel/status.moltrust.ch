@@ -50,22 +50,23 @@
     "url": "https://api.moltrust.ch/guard/api/agent/score-free/0x0000000000000000000000000000000000000001",
     "icon": "https://icons.duckduckgo.com/ip3/api.moltrust.ch.ico",
     "slug": "agent-score-free",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 1894,
-    "timeDay": 20199,
-    "timeWeek": 3800,
-    "timeMonth": 2241,
-    "timeYear": 1894,
+    "time": 1880,
+    "timeDay": 10297,
+    "timeWeek": 3374,
+    "timeMonth": 2183,
+    "timeYear": 1880,
     "dailyMinutesDown": {
       "2026-03-30": 50,
       "2026-03-31": 187,
       "2026-04-01": 264,
-      "2026-04-21": 140
+      "2026-04-21": 140,
+      "2026-06-16": 0
     }
   },
   {
